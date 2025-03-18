@@ -24,3 +24,7 @@
 # **tsconfig.json**
 
 * Configura TypeScript para la compilación y define reglas estrictas del lenguaje.
+
+
+
+Prueba git Diego
